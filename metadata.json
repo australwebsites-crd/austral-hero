@@ -1,0 +1,6 @@
+{
+  "name": "Austral Digital - High Performance Interfaces",
+  "description": "Modern interactive hero section for Austral Digital, engineering scalable e-commerce and high-performance digital interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
